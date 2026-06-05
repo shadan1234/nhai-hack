@@ -74,8 +74,6 @@ assets/models/*.pt
 *.sw?
 
 # ─── Project-specific exclusions ─────────────────────────────────────────────
-README.md
-.env.example
 .claude/
 AGENTS.md
 CLAUDE.md
